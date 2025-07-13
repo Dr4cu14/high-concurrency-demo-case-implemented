@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\bin\Debug\net8.0\Leaderboard.ServiceDefaults.deps.json
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\bin\Debug\net8.0\Leaderboard.ServiceDefaults.dll
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\bin\Debug\net8.0\Leaderboard.ServiceDefaults.pdb
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.dll
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\refint\Leaderboard.ServiceDefaults.dll
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\Leaderboard.ServiceDefaults.pdb
+C:\Users\Administrator\source\repos\Leaderboard\Leaderboard.ServiceDefaults\obj\Debug\net8.0\ref\Leaderboard.ServiceDefaults.dll
