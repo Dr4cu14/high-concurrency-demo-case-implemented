@@ -1,0 +1,53 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# 适用于ASP.NET 8项目的.gitignore
+
+# 操作系统生成的文件
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Desktop.ini
+
+# 配置文件
+appsettings.Development.json
+appsettings.Local.json
+*.user
+*.suo
+*.pdb
+*.vspscc
+*.vssscc
+
+# 构建和发布文件夹
+/bin/
+/obj/
+/out/
+/publish/
+/.vs/
+/.vscode/
+/.idea/
+
+# 日志和临时文件
+*.log
+*.cache
+*.temp
+
+# 依赖项
+**/node_modules/
+**/bower_components/
+**/jspm_packages/
+**/packages/
+
+# 数据库文件
+*.mdf
+*.ldf
+*.sdf
+
+# 测试结果
+TestResults/
+xunit.runner.json
+
+# 其他
+docker-compose.override.yml
+.coverage
