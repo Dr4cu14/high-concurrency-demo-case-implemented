@@ -2,7 +2,7 @@
   {
     "ContainingType": "Leaderboard.Controllers.LeaderboardController",
     "Method": "UpdateScore",
-    "RelativePath": "Leaderboard/customer/{customerid}/score/{score}",
+    "RelativePath": "customer/{customerid}/score/{score}",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -23,7 +23,7 @@
   {
     "ContainingType": "Leaderboard.Controllers.LeaderboardController",
     "Method": "GetByRank",
-    "RelativePath": "Leaderboard/leaderboard",
+    "RelativePath": "leaderboard",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,7 +44,7 @@
   {
     "ContainingType": "Leaderboard.Controllers.LeaderboardController",
     "Method": "GetWithNeighbors",
-    "RelativePath": "Leaderboard/leaderboard/{customerid}",
+    "RelativePath": "leaderboard/{customerid}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

@@ -11,12 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<ILeaderboardService, SingleDictionaryService>();
+//builder.Services.AddSingleton<ILeaderboardService, SingleDictionaryService>();
 
 
-//builder.Services.AddSingleton<ILeaderboardService>(
-//    _ => new PartitionedLeaderboardService(partitionCount: 16)
-//);
+builder.Services.AddSingleton<ILeaderboardService>(
+    _ => new PartitionedDictionaryService(partitionCount: 8)
+);
 
 //builder.Services.AddSingleton<ILeaderboardService, ReaderWriterLockLeaderboardService>();
 

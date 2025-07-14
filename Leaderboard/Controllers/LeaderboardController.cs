@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace Leaderboard.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
     public class LeaderboardController : ControllerBase
     {
         private readonly ILeaderboardService _service;

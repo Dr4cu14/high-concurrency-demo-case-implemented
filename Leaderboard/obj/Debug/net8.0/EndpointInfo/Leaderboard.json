@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/Leaderboard/customer/{customerid}/score/{score}": {
+    "/customer/{customerid}/score/{score}": {
       "post": {
         "tags": [
           "Leaderboard"
@@ -37,7 +37,7 @@
         }
       }
     },
-    "/Leaderboard/leaderboard": {
+    "/leaderboard": {
       "get": {
         "tags": [
           "Leaderboard"
@@ -67,7 +67,7 @@
         }
       }
     },
-    "/Leaderboard/leaderboard/{customerid}": {
+    "/leaderboard/{customerid}": {
       "get": {
         "tags": [
           "Leaderboard"
